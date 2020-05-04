@@ -12,7 +12,7 @@
       "required": true
     },
     "LINECORP_PLATFORM_CHANNEL_CALLBACKURL": {
-      "description": "Callback URL",
+      "description": "https://yome.in/my-account/",
       "required": true
     }
   }
